@@ -1,1 +1,19 @@
-wizyjneProjekt1/cable/test/cut_inner_insulation
+wizyjneProjekt1/cable/test/cable_swap
+
+kable maja ustalona kolejnosc (mowie zgodnie ze wskazowkami zegara) zielony szary, 
+niebieski,  za kadym razem trzeba sprawdzac czy taka kolejnosc zachodzi 
+
+Ciagi moga byc nastepujace:
+zielony, szary, niebieski
+szary niebieski, zoielony,
+niesbieki zielony szary
+
+JAKAKOLWIEK INNA KOLEJNOSC ZGODNIE ZE WSKAZUKWAMI ZEGARA JEST ZŁA - 
+MOWIMY TYLKO O OKREGACH CZYLI TRZEBA WYZNACZYC ICH CENTROIDY - CENTROIDY KÓŁEK CZYLI TRZY CENTROIDY 
+I PAMIETAC ICH KOLOR
+
+(zgodnie ze wskazówkami zegara) - jak nie zachodzi taka kolejnosc to jest cable swap, bierzemy ten ktory
+nie pasuje czyli drugi (i zaznaczamy jego kontur - tylko jego kontur) 
+
+czyli twoim zadaniem jest znalezienie tych kółek ktorenie pasuja
+
