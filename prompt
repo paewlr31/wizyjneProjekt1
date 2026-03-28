@@ -3,7 +3,7 @@ wizyjneProjekt1/cable/test/cable_swap
 kable maja ustalona kolejnosc (mowie zgodnie ze wskazowkami zegara) zielony szary, 
 niebieski,  za kadym razem trzeba sprawdzac czy taka kolejnosc zachodzi 
 
-Ciagi moga byc nastepujace:
+Ciagi moga byc tylko nastepujace:
 zielony, szary, niebieski
 szary niebieski, zoielony,
 niesbieki zielony szary
